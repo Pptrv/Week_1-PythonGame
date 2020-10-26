@@ -1,11 +1,11 @@
 Shark
-Treasure 
-Captain 
-Island  
+Treasure
+Captain
+Island 
 Sword
 Caribbean
 Sea
-Ocean 
+Ocean
 Storm
 Blunderbuss
 Murder
